@@ -1,13 +1,13 @@
 # Revisão HTML
 
-## Estrutura Básica
+- Estrutura Básica
 
-## Trabalhando com Texto
+- Trabalhando com Texto
 
-## Lista e Links
+- Lista e Links
 
-## Imagens, Tabelas Formulários
+- Imagens, Tabelas Formulários
 
-## Estrutura Semântica
+- Estrutura Semântica
 
-## HTML Avançado
+- HTML Avançado
