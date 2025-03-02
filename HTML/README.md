@@ -45,3 +45,34 @@
 </html>
 
 ```
+
+### Tags no HTML:
+
+- Tags são elementos HTML usados para estruturar e organizar o conteúdo de uma página web, informando ao navegador como ele deve exibir esse conteúdo. As tags podem definir títulos,parágrafos,listas, links, imagens, e muito mais. No HTML, temos dois tipos principais de tags: as tags de abertura e fechamento e as tags de autofechamento.
+
+- Tags de abertura e fechamento:São aquelas que precisam de duas partes: uma para iniciar e outra para fechar. A primeira parte marca o começo de um conteúdo, e a segunda parte indica onde esse conteúdo termina.
+
+```
+<body>  - Indica onde inicia o conteudo web.
+</body> - Indica onde termina o conteudo web.
+```
+
+- Tags de autofechamento: Essas tags não precisam de uma parte para fechar. Elas se fecham automaticamente quando são usadas. Normalmente, são usadas para elementos que não contêm conteúdo dentro delas, como uma imagem ou uma linha.
+
+```
+<meta charset="UTF-8">
+```
+
+-
+
+### Trabalhando com Texto
+
+##### Titulo e Paragrafos:
+
+### Lista e Links
+
+### Imagens, Tabelas Formulários
+
+### Estrutura Semântica
+
+### HTML Avançado
