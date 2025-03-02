@@ -87,3 +87,9 @@ Os commits devem ser nomeados com verbos no tempo **presente do indicativo**, de
 - **Facilidade na Revisão de Código**: A estrutura de commits bem organizada permite que os revisores entendam o propósito de cada alteração.
 - **Automação e Integração Contínua**: Padrões como o Conventional Commits permitem a automação de tarefas como geração de changelogs ou deploys automáticos.
 - **Melhoria no Colaborativo**: Facilita a colaboração entre membros da equipe, proporcionando uma visão clara sobre o que está sendo feito e em que momento.
+
+## 6. Links para Extensão do Conteúdo
+
+Para mais informações e recursos sobre padrões de commits, acesse o repositório oficial:
+
+- [Padrões de Commits - GitHub](https://github.com/iuricode/padroes-de-commits)
