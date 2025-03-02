@@ -24,6 +24,8 @@
 
 - Domínio é basicamente uma maneira mais simples de interagir com o usuário, pois substitui os endereços IP numéricos (que são difíceis de lembrar) por nomes mais amigáveis e fáceis de recordar.
 
+### Estrutura básica do HTML
+
 ```
 <!DOCTYPE html>  - Declarando ao meu navegador, a versão do HTML
 <html lang="en"> - Atributo usado para definir o idioma da página.
@@ -37,13 +39,3 @@
 </body>
 </html>
 ```
-
-- Trabalhando com Texto
-
-- Lista e Links
-
-- Imagens, Tabelas Formulários
-
-- Estrutura Semântica
-
-- HTML Avançado
