@@ -26,16 +26,22 @@
 
 ### Estrutura básica do HTML
 
-```
-<!DOCTYPE html>  - Declarando ao meu navegador, a versão do HTML
-<html lang="en"> - Atributo usado para definir o idioma da página.
-<head> - Head("cabeça") da página(é nela que vamos fazer a configuração da página)
-    <meta charset="UTF-8"> - Usamos para declarar o uso de caracteres especiais
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title> - Titulo da página
-</head>
-<body> - Body(corpo) da página(é nela que vai conter o conteudo da página web)
+- O atalho ! seguido de Tab no Visual Studio Code (VS Code) ou em alguns editores de código, como o Sublime Text, Atom, ou Brackets, gera automaticamente a estrutura básica do HTML5. Esse é um recurso muito útil para desenvolvedores, pois evita a digitação repetitiva de tags e facilita a criação rápida de um esqueleto HTML.
 
+```
+
+## Esqueleto HTML
+
+<!DOCTYPE html>  <!-- Declaração de tipo de documento, indicando HTML5 -->
+<html lang="en"> <!-- Definindo que o idioma da página é inglês -->
+<head> <!-- Cabeçalho da página, onde ficam os metadados e configurações -->
+    <meta charset="UTF-8"> <!-- Especifica a codificação de caracteres, garantindo que caracteres especiais sejam exibidos corretamente -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- Para tornar a página responsiva, ajustando o layout para diferentes dispositivos -->
+    <title>Document</title> <!-- Título da página que aparece na aba do navegador -->
+</head>
+<body> <!-- Corpo da página, onde fica o conteúdo visível para o usuário -->
+    <!-- O conteúdo da página vai aqui -->
 </body>
 </html>
+
 ```
