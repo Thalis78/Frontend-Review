@@ -60,10 +60,8 @@
 - Tags de autofechamento: Essas tags não precisam de uma parte para fechar. Elas se fecham automaticamente quando são usadas. Normalmente, são usadas para elementos que não contêm conteúdo dentro delas, como uma imagem ou uma linha.
 
 ```
-<meta charset="UTF-8">
+<meta charset="UTF-8"> - Esse é um exemplo de tag de autofechamento.
 ```
-
--
 
 ### Trabalhando com Texto
 
