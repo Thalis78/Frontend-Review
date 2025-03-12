@@ -66,7 +66,7 @@
 ### Trabalhando com Texto
 - No HTML, você pode estruturar o conteúdo textual utilizando diversas tags, como:
 
-- Título: Para definir o título de uma página, usamos a tag <h1> até <h6>, onde <h1> é o título principal e <h6> é o título de menor importância.
+- Título: "Para definir o título de uma página, usamos a tag <h1> até <h6>, onde <h1> é o título principal e <h6> é o título de menor importância".
 
 ```
 <h1>Título Principal</h1>
