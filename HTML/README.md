@@ -64,8 +64,26 @@
 ```
 
 ### Trabalhando com Texto
+- No HTML, você pode estruturar o conteúdo textual utilizando diversas tags, como:
 
-##### Titulo e Paragrafos:
+- Título: Para definir o título de uma página, usamos a tag <h1> até <h6>, onde <h1> é o título principal e <h6> é o título de menor importância.
+
+```
+<h1>Título Principal</h1>
+<h2>Subtítulo</h2>
+
+```
+- Parágrafos: Para definir parágrafos de texto, utilizamos a tag <p>.
+
+```
+<p>Este é um parágrafo de texto.</p>
+```
+- Quebras de linha: Para inserir uma quebra de linha, usamos a tag <br>.
+
+```
+<p>Texto antes da quebra<br>Texto após a quebra de linha.</p>
+```
+
 
 ### Lista e Links
 
