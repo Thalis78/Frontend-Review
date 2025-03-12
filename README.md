@@ -9,7 +9,6 @@ As branches devem ser nomeadas de forma clara e concisa, utilizando um verbo no 
 ```
     <tipo-de-alteracao>/<descricao-da-branch>
 ```
-
 ### Tipos de Alterações Comuns:
 
 - **feature**: Para novas funcionalidades ou recursos.
